@@ -171,5 +171,4 @@ Styling looks wrong	Run npm install and npm run dev again
 License
 MIT License — feel free to use this project for learning or personal use.
 
-Author
 Built as a TMDB API exploration project.
