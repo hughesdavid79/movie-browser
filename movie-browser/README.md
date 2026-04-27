@@ -16,7 +16,7 @@ A web app for browsing movies from The Movie Database (TMDB) API. Built with Rea
 ## Technical Highlights
 
 **Architecture**
-*Centralized API layer** (`src/api/tmdb.js`) with intelligent caching
+*Centralized API layer* (`src/api/tmdb.js`) with intelligent caching
 *URL-based state management* — browser back/forward works seamlessly
 *React Query* for server state management with automatic caching and refetching
 *Custom hooks* (`useDebounce`) for reusable logic
@@ -171,4 +171,5 @@ Styling looks wrong	Run npm install and npm run dev again
 License
 MIT License — feel free to use this project for learning or personal use.
 
+## Author
 Built as a TMDB API exploration project.
